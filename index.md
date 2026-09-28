@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: 欢迎报考中国矿业大学！
 ---
 ## 去到你想去的地方！
